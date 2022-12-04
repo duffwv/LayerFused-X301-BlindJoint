@@ -57,7 +57,7 @@ M5 sliding t-nut (specs are 10mm wide, actual measured 9.5mm)
 
 ## Accessing Other Blind Joint Holes
 
-The other holes can be accessed directly, although the spacers may need to be slid back into place due to tolerances built into the lenght of the spacers.
+The other holes can be accessed directly, although the spacers may need to be slid back into place due to tolerances built into the length of the spacers.
 
 ![Accessing the 50mm Hole](./spacers/img/accessing-50mm-sm.jpeg)
 ![Accessing the 170mm Hole](./spacers/img/accessing-170mm-sm.jpeg)
