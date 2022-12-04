@@ -4,7 +4,7 @@ Blind Joint setup for LayerFused X301.
 
 ## Drill Bit
 
-I used a 7/32 drill bit, M6 Button Head screws, and a 4mm hex key.
+I used a 7/32 drill bit, M6 Button Head screws (as appropriate for my extrusions), and a 4mm hex key.  Other extrusions may be tapped for M5 screws and a smaller hex key; therefore could accomodate a smaller drill bit.  If needed for your extrusions, tap opposite holes with appropriate tap; mine needed an M6 tap.
 
 ## Rear Corner Brackets
 
